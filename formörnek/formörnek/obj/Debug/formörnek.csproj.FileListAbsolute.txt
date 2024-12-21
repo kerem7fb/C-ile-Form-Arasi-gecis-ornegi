@@ -1,0 +1,19 @@
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\formörnek\formörnek\bin\Debug\formörnek.exe.config
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\formörnek\formörnek\bin\Debug\formörnek.exe
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\formörnek\formörnek\bin\Debug\formörnek.pdb
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\formörnek\formörnek\obj\Debug\formörnek.csprojResolveAssemblyReference.cache
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\formörnek\formörnek\obj\Debug\formörnek.Form1.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\formörnek\formörnek\obj\Debug\formörnek.Properties.Resources.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\formörnek\formörnek\obj\Debug\formörnek.csproj.GenerateResource.Cache
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\formörnek\formörnek\obj\Debug\formörnek.exe
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\formörnek\formörnek\obj\Debug\formörnek.pdb
+C:\Users\user\Desktop\10-M\formörnek\formörnek\bin\Debug\formörnek.exe.config
+C:\Users\user\Desktop\10-M\formörnek\formörnek\obj\Debug\formörnek.exe
+C:\Users\user\Desktop\10-M\formörnek\formörnek\obj\Debug\formörnek.pdb
+C:\Users\user\Desktop\10-M\formörnek\formörnek\bin\Debug\formörnek.exe
+C:\Users\user\Desktop\10-M\formörnek\formörnek\bin\Debug\formörnek.pdb
+C:\Users\user\Desktop\10-M\formörnek\formörnek\obj\Debug\formörnek.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\formörnek\formörnek\obj\Debug\formörnek.Form1.resources
+C:\Users\user\Desktop\10-M\formörnek\formörnek\obj\Debug\formörnek.Form2.resources
+C:\Users\user\Desktop\10-M\formörnek\formörnek\obj\Debug\formörnek.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\formörnek\formörnek\obj\Debug\formörnek.csproj.GenerateResource.Cache
